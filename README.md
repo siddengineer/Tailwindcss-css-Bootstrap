@@ -422,7 +422,7 @@ Bootstrap
 | Install Bootstrap via CDN          |      |
 | Install Bootstrap via npm          |      |
 | Container Usage                    |https://github.com/siddengineer/Tailwindcss-css-Bootstrap/blob/main/%F0%9F%A7%B1%20Bootstrap%20Container%20Usage      |
-| Grid Basics                        |      |
+| Grid Basics                        |https://github.com/siddengineer/Tailwindcss-css-Bootstrap/blob/main/%F0%9F%A7%A9%20Bootstrap%20Grid%20System      |
 | Responsive Grid                    |      |
 | Typography Basics                  |      |
 | Text Alignment                     |      |
